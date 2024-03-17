@@ -5,8 +5,8 @@
 }
 
 body {
-    background: #247287;
-    /* Original: background: #A52931;*/
+    background: #194551;
+    /* Original-> background: #A52931;*/
     font:  15pt;
 }
 
@@ -24,7 +24,7 @@ section {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.411);
     /*font-style: oblique;*/
     font-weight: bold;
-    color: #A52931;
+    color: #194551;
 }
 
 div {
