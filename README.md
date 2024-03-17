@@ -14,7 +14,7 @@ Para que o usuário possa verificar as informações contidas na página web, h�
 - `index.html`: Página principal em HTML que contém as referências em ***CSS e Javascript*** para que a interface seja amigável e funcional.
 - `signos.css`: Arquivo responsável pelo estilo da página principal, contém as informações das cores de fundo, da fonte e do container da página.
 - `signos.js`: Arquivo responsável pela estrutura lógica da página, analisando a resposta inserida pelo usuário e decidindo qual imagem do signo do horóscopo será apresentada baseada na informação armazenada.
-- `pasta img`: Diretório que contém as imagens que estão em referência no arquivo ***javascript***.
+- `pasta/img`: Diretório que contém as imagens que estão em referência no arquivo ***javascript***.
 
 ## Esquema de dados
 
