@@ -2,10 +2,6 @@
 
 Este projeto é uma página web que fornece informações sobre o **Horóscopo Chinês**, permitindo ao usuário inserir o ano de nascimento para descobrir o seu signo chinês.
 
-<img src="img/horoscopo.gif">
-
-<small><i>**Figura** **1: Imagem animada da página inicial funcionando.**</i></small>
-
 ## Recursos
 
 A página web possui elementos de ***JavaScript*** e ***CSS*** para proporcionar uma interface amigável, providenciando um container no meio da página que muda de acordo com o ano inserido.
@@ -37,3 +33,9 @@ Para que o usuário possa verificar as informações contidas na página web, h�
 - Referenciar o estilo da página como: Cores de fonte, fundo e imagens com ***CSS***.
 - Estruturar a lógica com ***Javascript***.
 - Realizar *upload* em servidor local ou online.
+
+
+
+<img src="img/horoscopo.gif">
+
+<small><i>**Figura** **1: Imagem animada da página inicial funcionando.**</i></small>
